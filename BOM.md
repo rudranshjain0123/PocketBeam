@@ -23,7 +23,7 @@
 | SW_SPDT | — | 1 | $0.00 | $0.00 | — |
 | SW_Push | — | 1 | $0.00 | $0.00 | — |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$0.00** | — |
+| **Tax & shipping** | — | — | — | **$30.00** | — |
+| **Total** | — | — | — | **$30.00** | — |
 
-$30.00 left of the tier's funding.
+$0.00 left of the tier's funding.
