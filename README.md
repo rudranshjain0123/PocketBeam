@@ -13,3 +13,4 @@ This is custom made by me in kicad.
 It includes resistors, a capacitator, a detector, switches etc.
 ### IMG
 <img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 47 29 PM" src="https://github.com/user-attachments/assets/e7057d5b-250c-4bce-b04c-f3bf3b263ae3" />
+<img width="2102" height="1408" alt="image" src="https://github.com/user-attachments/assets/0d2c2a38-c70c-4185-a8b0-809794f4354e" />
